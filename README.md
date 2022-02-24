@@ -23,7 +23,7 @@ The TrainScene allows the user to train the system and thus associate a hand con
 ![alt text](https://github.com/musimathicslab/MarcoSmiles3.0/blob/main/trainingScene.jpeg?raw=true)
 ### PlayScene
 The PlayScene allows the user to play the musical instrument. The user in this scene can enable or disable the MIDI functionality. A Sinth allows the user to modify the sound of the instrument through the use of Knob.
-![alt text](https://github.com/musimathicslab/MarcoSmiles3.0/blob/main/PlayScene.jpeg?raw=true)
+![alt text](https://github.com/musimathicslab/marco_smiles/SalernoDaniele-2022/blob/main/PlayScene.jpeg?raw=true)
 
 ## Developed by
 [Salerno Daniele](https://github.com/DanieleSalerno)
