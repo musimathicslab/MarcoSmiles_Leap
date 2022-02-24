@@ -1,6 +1,8 @@
 # MarcoSmiles3.0
 MarcoSmiles is a project born in 2016 developed by the Laboratory of Musimatics at the University of Salerno. It allows you to play a virtual musical instrument through simple hand gestures, in a completely customizable way. It uses a Leap Motion Controller to acquire information about the position of the user's hands and a properly trained Artificial Neural Network (ANN) that associates in real-time the position of the hands to a note .
 
+You can download the project through the following link:  [https://bit.ly/34Y5zL7](https://bit.ly/34Y5zL7)
+
 Version 3.0 has the following objectives:
 + **Management of MIDI messages**: an ad hoc module has been implemented to send MIDI messages to other devices, thus making MarcoSmiles a real MIDI controller ready to be used in a musical network.
 + **Graphic interface**: a restyling of the previous interface has been carried out, integrating three-dimensional elements and trying to recreate a music studio. This interface, integrated with a visor for virtual reality, would be more performing as it would project the user into the recreated environment. 
