@@ -31,7 +31,7 @@ The PlayScene allows the user to play the musical instrument. The user in this s
 [Salerno Daniele](https://github.com/DanieleSalerno)
 
 ### Under Supervision of:
-[Zaccagnino Rocco](https://github.com/linkprof)
+[Zaccagnino Rocco](https://github.com/rzaccagnino)
 
 ## Future implementations
 - [x] Playing multiple notes at once
