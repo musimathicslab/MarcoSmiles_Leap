@@ -19,6 +19,12 @@ In order to make MarcoJams work properly, magenta pip package is needed. To inst
 
 More details to install and use MarcoJams are available in the guide files, consulting the guide files is strongly recommended.
 
+## Developed by
+[Trinchese Dario](https://github.com/DarioTroll)
+
+### Under Supervision of:
+[Zaccagnino Rocco](https://github.com/rzaccagnino)
+
 ## Future implementations
 - [x] Playing multiple notes at once
 - [x] Evolving the system as a tool that takes advantage of virtual reality
