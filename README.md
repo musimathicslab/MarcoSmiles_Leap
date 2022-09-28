@@ -11,7 +11,7 @@ You can download the project through the following link: https://bit.ly/3Rfqpr7
 
 Starting the interaction with the Magenta MIDI Interface may be a complex task for non-experts. The new Magenta module in the original MarcoSmiles Play Scene has been added to overtake these difficulties. The new module allows to start the interaction automatically, as long as switching between Attention RNN and Lookback RNN before starting the interaction. "MarcoSmiles" and "MarcoJams" virtual MIDI ports must be active before using the Magenta module available in the graphic interface. Further informations are in the guide files.
 
-![alt text](https://github.com/musimathicslab/marco_smiles/blob/MarcoJams/Magenta_Performance.png?raw=true)
+![alt text](https://github.com/musimathicslab/marco_smiles/blob/MarcoJams/Magenta_Perfomance.png?raw=true)
 
 ## Installation & Usage
 
