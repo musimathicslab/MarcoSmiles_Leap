@@ -1,4 +1,4 @@
-# MarcoSmiles3.0
+# MarcoSmiles Leap
 MarcoSmiles is a project born in 2016 developed by the Laboratory of Musimatics at the University of Salerno. It allows you to play a virtual musical instrument through simple hand gestures, in a completely customizable way. It uses a Leap Motion Controller to acquire information about the position of the user's hands and a properly trained Artificial Neural Network (ANN) that associates in real-time the position of the hands to a note .
 
 You can download the project through the following link:  [https://bit.ly/34Y5zL7](https://bit.ly/34Y5zL7)
