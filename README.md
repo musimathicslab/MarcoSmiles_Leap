@@ -18,7 +18,7 @@ the graphic interface was created entirely using the 3D graphics engine. There a
 
 ### MainScene
 The MainScene is the home page of the system and allows access to the different screens of the system and to manage the configurations allowing to change, export or import a configuration.
-![alt text](https://github.com/musimathicslab/marco_smiles/blob/SalernoDaniele-2022/MainScene.jpeg?raw=true)
+![alt text](https://github.com/musimathicslab/marco_smiles/blob/SalernoDaniele-2022/ANONIM_MainScene.png?raw=true)
 
 ### TrainScene
 The TrainScene allows the user to train the system and thus associate a hand configuration to a certain note, or to the pause. Then, once the recording phase of the various configurations is over, the user can launch the machine learning script and wait for the completion of the training phase.
